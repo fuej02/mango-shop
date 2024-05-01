@@ -1,0 +1,48 @@
+a{
+    color: 		#E09200;
+}
+a:hover{
+    color: gray;
+}
+a:visited {
+    color:		#E09200;
+}
+a:active{
+    color: gray;
+}
+a:visited:hover{
+    color: gray;
+}
+
+/* 透明的盒子中的文字 */
+div.background
+{
+ width:500px;
+height:250px;
+background:url(klematis.jpg) repeat;
+margin-left: 130px;
+margin-top: 200px;
+border radius: 20px;
+/* border:2px solid black; */
+} 
+div.transbox
+{
+width:800px;
+height:300px;
+margin:30px 50px;
+background-color: bisque;
+border radius: 20px;
+/* border:1px solid black; */
+opacity:0.6;
+filter:alpha(opacity=60); /* For IE8 and earlier */
+text-align: center;
+}
+div.transbox p
+{
+margin:30px 40px;
+font-weight:bold;
+color:#000000;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 45px;
+}
