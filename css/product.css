@@ -1,0 +1,124 @@
+.navbar{
+    background-color: #f7f5ee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.dropdown-menu{
+    background-color: #f7f5ee;
+}
+
+.font-size{
+    font-size: 20px;
+}
+.bg-margin{
+    margin-top: 0%;
+}
+
+.jumbotron-color{
+    background-color:#F8E9AD;
+    margin-left: -30px;
+    margin-right: -30px;
+}
+
+.bg-img{
+    background-image: url(images/download-mango2.jpg);
+    background-attachment: scroll ;
+    background-repeat: round;
+    height:;
+    /* background-size: contain; */
+}
+.img-index{
+  /* width:102%; */
+  width: 85vw;
+  /* height: 1600px; */
+  margin-top: -20px;
+  margin-left: 100px;
+}
+.margin-left{
+  margin-left: 5vw;
+}
+.navbar-default .navbar-nav > li > a {
+  color:#616057;
+  font-weight: bolder;
+  font-size: 17px;
+}
+
+.padding{
+ padding-top: 40px;
+  padding-bottom: 15px;
+  background-color:#F8E9AD;
+}
+.bg-color{
+  background-color: #f7f5ee;
+}
+.jumbotron-text-color{
+  color:#A94719;
+}
+.btn-color{
+  /* color: #A3A9A4; */
+  border-width: 2px;          
+}
+/* .jumbotron-img{
+  width: 487px;
+  height: 500px;
+  border-radius: 5px;
+} */
+.jumbotron{
+  margin-top: -20px;
+  width: 100vw;
+  height: 50vw;
+  background: url(../images/mangodryy1.png);
+  background-size: cover;
+}
+.jumbotron h1{
+  color: #F1F2F4;
+  margin-top: 18vw;
+}
+/* ------------ */
+
+.first-img{
+    width: 100vw;
+    height: 700px;
+    margin-top: -20px;
+}
+h1{font-size: 72px;
+    color: #F1F2F4;
+    /* position:absolute;
+    top:400px;
+    left: 39%; */
+    letter-spacing: 15px;
+    font-weight: bolder;
+}
+
+.h3-font{
+    text-align: center;
+    font-size: 30px;
+}
+
+.font-style{
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px ;
+    border-color:#C93D14;
+    background-color:#F24E2B;
+    
+  }
+  
+  .font-style:hover{
+   color: #DD7210;
+   border-color: #DD7210;
+  }
+ 
+  p{
+    font-size: 18px;
+ }
+
+ .p-font{
+    color: #F62915;
+    font-size: 25px;
+    text-align: center;
+ }
+
+ .h2-font{
+  padding-top: 3px;
+ }
